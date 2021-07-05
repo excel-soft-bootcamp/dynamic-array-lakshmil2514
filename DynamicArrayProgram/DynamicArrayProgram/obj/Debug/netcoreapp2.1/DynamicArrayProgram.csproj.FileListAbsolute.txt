@@ -1,0 +1,12 @@
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\bin\Debug\netcoreapp2.1\DynamicArrayProgram.deps.json
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\bin\Debug\netcoreapp2.1\DynamicArrayProgram.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\bin\Debug\netcoreapp2.1\DynamicArrayProgram.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\bin\Debug\netcoreapp2.1\DynamicArrayProgram.dll
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\bin\Debug\netcoreapp2.1\DynamicArrayProgram.pdb
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.dll
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.pdb
+C:\Users\lakshmi.l\source\repos\DynamicArrayProgram\DynamicArrayProgram\obj\Debug\netcoreapp2.1\DynamicArrayProgram.genruntimeconfig.cache
