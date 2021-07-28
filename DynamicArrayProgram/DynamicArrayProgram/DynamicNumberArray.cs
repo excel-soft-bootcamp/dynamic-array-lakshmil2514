@@ -22,10 +22,6 @@ namespace DynamicArrayProgram
 
         public int this[int index]
         {
-            /*if(index >= buffer.Length)
-            {
-              Array.Resize(ref buffer,index+5)
-            }*/
             set
             {
                 Array.Resize(ref buffer, index+5);
